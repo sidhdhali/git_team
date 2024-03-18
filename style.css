@@ -6,3 +6,10 @@ footer {
 header {
   color: black;
 }
+
+
+div{
+  color: maroon;
+  font-size: x-large;
+  border: 5px solid green;
+}
